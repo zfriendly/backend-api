@@ -54,7 +54,9 @@ app.get("/restaurants/price/:price", (req, res) => {
 
 // Query museums by city
 app.get("/museums/:city", (req, res) => {
-  Museum.find({ city: req.params.city }).then(museums => res.json(museums));
+  Museum.find({ city: { $regex: req.params.city } }).then(museums =>
+    res.json(museums)
+  );
 });
 
 // Create a new city
@@ -75,16 +77,17 @@ app.post("/museum", (req, res) => {
   Museum.create(req.body).then(zoo => res.json(zoo));
 });
 
+app.get("/cityguide/:city", (req, res) => {
+  City.findOne({ city: req.params.city })
+    .populate("restaurants")
+    .populate("museums")
+    .then(city => {
+      res.json(city);
+    });
+});
+
 app.set("port", process.env.PORT || 3000);
 
 app.listen(app.get("port"), () => {
   console.log(`✅ PORT: ${app.get("port")} 🌟`);
 });
-
-// app.get("/:city/restaurants", (req, res) => {
-//   City.findOne({ city: req.params.city })
-//     .populate("Restaurant")
-//     .exec(function(err, req) {
-//       if (err) return handleError(err);
-//     });
-// });
