@@ -82,7 +82,7 @@ app.post("/museum", (req, res) => {
 });
 // Search for a city guide by city name, including restaurants and museums
 app.get("/cityguide/:city", (req, res) => {
-  City.findOne({ $regex: req.params.city })
+  City.findOne({ city: { $regex: req.params.city } })
     .populate("restaurants")
     .populate("museums")
     .then(city => {
