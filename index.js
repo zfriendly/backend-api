@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
-const Restaurant = require("./models/Restaurant");
-const Museum = require("./models/Museum");
-const City = require("./models/City");
+const Restaurant = require("./lib/models/Restaurant");
+const Museum = require("./lib/models/Museum");
+const City = require("./lib/models/City");
 const parser = require("body-parser");
 
 app.use(parser.json());
