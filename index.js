@@ -24,12 +24,16 @@ app.get("/museums", (req, res) => {
 
 // All Cities query
 app.get("/:city", (req, res) => {
-  City.find({ city: { $regex: req.params.city } }).then(cities => res.json(cities));
+  City.find({ city: { $regex: req.params.city } }).then(cities =>
+    res.json(cities)
+  );
 });
 
 // Query restaurants by city
 app.get("/restaurants/:city", (req, res) => {
-  Restaurant.find({ city: { $regex: req.params.city } }).then(food => res.json(food));
+  Restaurant.find({ city: { $regex: req.params.city } }).then(food =>
+    res.json(food)
+  );
 });
 
 // Query restaurants by Michelin stars
@@ -78,7 +82,7 @@ app.post("/museum", (req, res) => {
 });
 // Search for a city guide by city name, including restaurants and museums
 app.get("/cityguide/:city", (req, res) => {
-  City.findOne({ { $regex: req.params.city } })
+  City.findOne({ $regex: req.params.city })
     .populate("restaurants")
     .populate("museums")
     .then(city => {
