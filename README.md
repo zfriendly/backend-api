@@ -16,33 +16,33 @@
 
 #### Restaurants:
 
-`http://localhost:3000/restaurants` - Queries all restaurants in the API.
+`/restaurants` - Queries all restaurants in the API.
 
-`http://localhost:3000/restaurants/:city` - Queries all restaurants in the specified city.
+`/restaurants/:city` - Queries all restaurants in the specified city.
 
-`http://localhost:3000/stars/:michelinStars` - Queries all restaurants by their Michelin star rating (1 through 3).
+`/stars/:michelinStars` - Queries all restaurants by their Michelin star rating (1 through 3).
 
-`http://localhost:3000/restaurants/:city/stars/:michelinStars` - Queries all restaurants in a specific city by their Michelin star rating.
+`/restaurants/:city/stars/:michelinStars` - Queries all restaurants in a specific city by their Michelin star rating.
 
-`http://localhost:3000/restaurants/price/:price` - Queries all restaurants in the API by their price-point (between $-$\$\$\$\$).
+`/restaurants/price/:price` - Queries all restaurants in the API by their price-point (between $-$\$\$\$\$).
 
 #### Museums:
 
-`http://localhost:3000/museums` - Queries all museums in the API.
+`/museums` - Queries all museums in the API.
 
-`http://localhost:3000/museums/:city` - Queries all museums in the specified city.
+`/museums/:city` - Queries all museums in the specified city.
 
 #### Cities:
 
-`http://localhost:3000/` - Queries all cities in the API.
+`/` - Queries all cities in the API.
 
-`http://localhost:3000/:city` - Queries specific cities, returnining IDs of all the museums and restaurants in that city.
+`/:city` - Queries specific cities, returnining IDs of all the museums and restaurants in that city.
 
 ## POST Requests:
 
 #### Restaurants:
 
-`http://localhost:3000/restaurant`
+`/restaurant`
 
 Restaurant model format:
 
@@ -61,7 +61,7 @@ url: String
 
 #### Museums:
 
-`http://localhost:3000/museum`
+`/museum`
 
 Museum model format:
 
@@ -78,7 +78,7 @@ phoneNumber: Number
 
 #### Cities:
 
-`http://localhost:3000/city`
+`/city`
 
 City model format:
 
@@ -87,3 +87,11 @@ city: String,
 restaurants: [],
 museums: []
 ```
+
+### Authentication:
+
+Not required! Feel free to enjoy.
+
+### Author:
+
+- Zack Friendly
