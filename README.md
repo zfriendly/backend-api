@@ -36,7 +36,11 @@
 
 `/` - Queries all cities in the API.
 
-`/:city` - Queries specific cities, returnining IDs of all the museums and restaurants in that city.
+`/:city` - Queries specific cities, returning IDs of all the museums and restaurants in that city.
+
+#### CITY GUIDES:
+
+`/cityguide/:city` - Queries a specific city, returning objects of all of the restaurants and museums in that city.
 
 ## POST Requests:
 
@@ -91,6 +95,10 @@ museums: []
 ### Authentication:
 
 Not required! Feel free to enjoy.
+
+### Load Testing:
+
+The site was load-tested using Artillery.
 
 ### Author:
 
