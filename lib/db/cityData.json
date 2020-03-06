@@ -1,17 +1,27 @@
 [
   {
-    "city": "New York City"
+    "city": "New York City",
+    "tileImage": "https://i.imgur.com/IgpZRJx.png",
+    "squareImage": "https://i.imgur.com/YTVFrX3.png"
   },
   {
-    "city": "Chicago"
+    "city": "Chicago",
+    "tileImage": "https://i.imgur.com/YB8cRY9.png",
+    "squareImage": "https://i.imgur.com/I0LyeSz.png"
   },
   {
-    "city": "Los Angeles"
+    "city": "Los Angeles",
+    "tileImage": "https://i.imgur.com/1XITO3f.png",
+    "squareImage": "https://i.imgur.com/T3LQdCz.png"
   },
   {
-    "city": "San Francisco"
+    "city": "San Francisco",
+    "tileImage": "https://i.imgur.com/Cn0nwK5.png",
+    "squareImage": "https://i.imgur.com/yzVDU3z.png"
   },
   {
-    "city": "Washington"
+    "city": "Washington",
+    "tileImage": "https://i.imgur.com/FoyBivU.png",
+    "squareImage": "https://i.imgur.com/bkJbenr.png"
   }
 ]

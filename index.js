@@ -4,8 +4,10 @@ const Restaurant = require("./lib/models/Restaurant");
 const Museum = require("./lib/models/Museum");
 const City = require("./lib/models/City");
 const parser = require("body-parser");
+var cors = require("cors");
 
 app.use(parser.json());
+app.use(cors());
 
 // All Restaurants query
 app.get("/", (req, res) => {
