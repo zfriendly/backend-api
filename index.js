@@ -9,7 +9,10 @@ app.use(parser.json());
 
 // All Restaurants query
 app.get("/", (req, res) => {
-  City.find({}).then(cities => res.json(cities));
+  City.find({})
+    .populate("restaurants")
+    .populate("museums")
+    .then(cities => res.json(cities));
 });
 
 // All Restaurants query
