@@ -2,7 +2,7 @@
   "Chicago": [
     {
       "name": "Parachute",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60618,
@@ -15,7 +15,7 @@
     },
     {
       "name": "Goosefoot",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60625,
@@ -28,7 +28,7 @@
     },
     {
       "name": "Elizabeth",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60625,
@@ -41,7 +41,7 @@
     },
     {
       "name": "EL Ideas",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60618,
@@ -54,7 +54,7 @@
     },
     {
       "name": "Band of Bohemia",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60640,
@@ -67,7 +67,7 @@
     },
     {
       "name": "Schwa",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60662,
@@ -80,7 +80,7 @@
     },
     {
       "name": "Temporis",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": null,
@@ -93,7 +93,7 @@
     },
     {
       "name": "Entente",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60657,
@@ -106,7 +106,7 @@
     },
     {
       "name": "Elske",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60607,
@@ -119,7 +119,7 @@
     },
     {
       "name": "Dusek's (Board & Beer)",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60608,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Roister",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60607,
@@ -145,7 +145,7 @@
     },
     {
       "name": "Boka",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60614,
@@ -158,7 +158,7 @@
     },
     {
       "name": "Blackbird",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60661,
@@ -171,7 +171,7 @@
     },
     {
       "name": "Sepia",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60661,
@@ -184,7 +184,7 @@
     },
     {
       "name": "North Pond",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60614,
@@ -197,7 +197,7 @@
     },
     {
       "name": "Everest",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60605,
@@ -210,7 +210,7 @@
     },
     {
       "name": "Topolobampo",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60654,
@@ -223,7 +223,7 @@
     },
     {
       "name": "Spiaggia",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60611,
@@ -236,7 +236,7 @@
     },
     {
       "name": "Smyth",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60607,
@@ -249,7 +249,7 @@
     },
     {
       "name": "Oriole",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60661,
@@ -262,7 +262,7 @@
     },
     {
       "name": "Alinea",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "Chicago",
       "state": "IL",
       "zipCode": 60614,
@@ -277,7 +277,7 @@
   "Los Angeles": [
     {
       "name": "Shin Sushi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 91436,
@@ -290,7 +290,7 @@
     },
     {
       "name": "Rustic Canyon",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90401,
@@ -303,7 +303,7 @@
     },
     {
       "name": "Dialogue",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90401,
@@ -316,7 +316,7 @@
     },
     {
       "name": "Kato",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90025,
@@ -329,7 +329,7 @@
     },
     {
       "name": "CUT",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90212,
@@ -342,7 +342,7 @@
     },
     {
       "name": "Nozawa Bar",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90210,
@@ -355,7 +355,7 @@
     },
     {
       "name": "Shunji",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90064,
@@ -368,7 +368,7 @@
     },
     {
       "name": "Maude",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90212,
@@ -381,7 +381,7 @@
     },
     {
       "name": "Mori Sushi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90064,
@@ -394,7 +394,7 @@
     },
     {
       "name": "Trois Mec",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90028,
@@ -407,7 +407,7 @@
     },
     {
       "name": "Osteria Mozza",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90028,
@@ -420,7 +420,7 @@
     },
     {
       "name": "Kali",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90028,
@@ -433,7 +433,7 @@
     },
     {
       "name": "Le Comptoir",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90020,
@@ -446,7 +446,7 @@
     },
     {
       "name": "Q Sushi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90017,
@@ -459,7 +459,7 @@
     },
     {
       "name": "Shibumi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90014,
@@ -472,7 +472,7 @@
     },
     {
       "name": "Hayato",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90001,
@@ -485,7 +485,7 @@
     },
     {
       "name": "Bistro Na's",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 91780,
@@ -498,7 +498,7 @@
     },
     {
       "name": "Orsa & Winston",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90013,
@@ -511,7 +511,7 @@
     },
     {
       "name": "Urasawa",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90210,
@@ -524,7 +524,7 @@
     },
     {
       "name": "Sushi Ginza Onodera",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": null,
@@ -537,7 +537,7 @@
     },
     {
       "name": "Somni",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90048,
@@ -550,7 +550,7 @@
     },
     {
       "name": "Providence",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90028,
@@ -563,7 +563,7 @@
     },
     {
       "name": "n/naka",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90034,
@@ -576,7 +576,7 @@
     },
     {
       "name": "Vespertine",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Los Angeles",
       "state": "CA",
       "zipCode": 90232,
@@ -591,7 +591,7 @@
   "New York City": [
     {
       "name": "L'Atelier de Joël Robuchon",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -604,7 +604,7 @@
     },
     {
       "name": "Jungsik",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10013,
@@ -617,7 +617,7 @@
     },
     {
       "name": "Atera",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10013,
@@ -630,7 +630,7 @@
     },
     {
       "name": "Jean-Georges",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10023,
@@ -643,7 +643,7 @@
     },
     {
       "name": "Marea",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10019,
@@ -656,7 +656,7 @@
     },
     {
       "name": "Gabriel Kreuther",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10036,
@@ -669,7 +669,7 @@
     },
     {
       "name": "Ichimura at Uchū",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10002,
@@ -682,7 +682,7 @@
     },
     {
       "name": "Sushi Ginza Onodera",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10017,
@@ -695,7 +695,7 @@
     },
     {
       "name": "Ko",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -708,7 +708,7 @@
     },
     {
       "name": "The Modern",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10019,
@@ -721,7 +721,7 @@
     },
     {
       "name": "Aquavit",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10022,
@@ -734,7 +734,7 @@
     },
     {
       "name": "Daniel",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10065,
@@ -747,7 +747,7 @@
     },
     {
       "name": "Aska",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11249,
@@ -760,7 +760,7 @@
     },
     {
       "name": "Blanca",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11206,
@@ -773,7 +773,7 @@
     },
     {
       "name": "Masa",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10019,
@@ -786,7 +786,7 @@
     },
     {
       "name": "Per Se",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10019,
@@ -799,7 +799,7 @@
     },
     {
       "name": "Le Bernardin",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10019,
@@ -812,7 +812,7 @@
     },
     {
       "name": "Eleven Madison Park",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10010,
@@ -825,7 +825,7 @@
     },
     {
       "name": "Chef's Table at Brooklyn Fare",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10018,
@@ -838,7 +838,7 @@
     },
     {
       "name": "Del Posto",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10011,
@@ -851,7 +851,7 @@
     },
     {
       "name": "Le Grill de Joël Robuchon",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -864,7 +864,7 @@
     },
     {
       "name": "L'Appart",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10281,
@@ -877,7 +877,7 @@
     },
     {
       "name": "Okuda",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -890,7 +890,7 @@
     },
     {
       "name": "Wallsé",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10014,
@@ -903,7 +903,7 @@
     },
     {
       "name": "Jeju Noodle Bar",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10014,
@@ -916,7 +916,7 @@
     },
     {
       "name": "Sushi Nakazawa",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10014,
@@ -929,7 +929,7 @@
     },
     {
       "name": "Kosaka",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10011,
@@ -942,7 +942,7 @@
     },
     {
       "name": "Bâtard",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10013,
@@ -955,7 +955,7 @@
     },
     {
       "name": "Hirohisa",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10012,
@@ -968,7 +968,7 @@
     },
     {
       "name": "Blue Hill",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10011,
@@ -981,7 +981,7 @@
     },
     {
       "name": "ZZ's Clam Bar",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10012,
@@ -994,7 +994,7 @@
     },
     {
       "name": "Babbo",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10011,
@@ -1007,7 +1007,7 @@
     },
     {
       "name": "Carbone",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1020,7 +1020,7 @@
     },
     {
       "name": "Le Coucou",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10013,
@@ -1033,7 +1033,7 @@
     },
     {
       "name": "Aldea",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10011,
@@ -1046,7 +1046,7 @@
     },
     {
       "name": "Cote",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10010,
@@ -1059,7 +1059,7 @@
     },
     {
       "name": "Bouley at Home",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "Gotham Bar and Grill",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1085,7 +1085,7 @@
     },
     {
       "name": "Nix",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1098,7 +1098,7 @@
     },
     {
       "name": "Junoon",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10010,
@@ -1111,7 +1111,7 @@
     },
     {
       "name": "NoMad",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10001,
@@ -1124,7 +1124,7 @@
     },
     {
       "name": "The Musket Room",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10012,
@@ -1137,7 +1137,7 @@
     },
     {
       "name": "Uncle Boons",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10012,
@@ -1150,7 +1150,7 @@
     },
     {
       "name": "Noda",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Gramercy Tavern",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1176,7 +1176,7 @@
     },
     {
       "name": "The Clocktower",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10010,
@@ -1189,7 +1189,7 @@
     },
     {
       "name": "Ai Fiori",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10018,
@@ -1202,7 +1202,7 @@
     },
     {
       "name": "Casa Mono",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1215,7 +1215,7 @@
     },
     {
       "name": "Jewel Bako",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1228,7 +1228,7 @@
     },
     {
       "name": "The River Café",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11201,
@@ -1241,7 +1241,7 @@
     },
     {
       "name": "Bar Uchū",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10002,
@@ -1254,7 +1254,7 @@
     },
     {
       "name": "Café China",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10016,
@@ -1267,7 +1267,7 @@
     },
     {
       "name": "Kanoyama",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10003,
@@ -1280,7 +1280,7 @@
     },
     {
       "name": "Contra",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10002,
@@ -1293,7 +1293,7 @@
     },
     {
       "name": "Atomix",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -1306,7 +1306,7 @@
     },
     {
       "name": "Kyo Ya",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10009,
@@ -1319,7 +1319,7 @@
     },
     {
       "name": "Kajitsu",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10016,
@@ -1332,7 +1332,7 @@
     },
     {
       "name": "Agern",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10017,
@@ -1345,7 +1345,7 @@
     },
     {
       "name": "Caviar Russe",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10022,
@@ -1358,7 +1358,7 @@
     },
     {
       "name": "Tuome",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10009,
@@ -1371,7 +1371,7 @@
     },
     {
       "name": "Tempura Matsui",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10158,
@@ -1384,7 +1384,7 @@
     },
     {
       "name": "Sushi Yasuda",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10017,
@@ -1397,7 +1397,7 @@
     },
     {
       "name": "Sushi Amane",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10017,
@@ -1410,7 +1410,7 @@
     },
     {
       "name": "Café Boulud",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10021,
@@ -1423,7 +1423,7 @@
     },
     {
       "name": "Claro",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -1436,7 +1436,7 @@
     },
     {
       "name": "Satsuki",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10036,
@@ -1449,7 +1449,7 @@
     },
     {
       "name": "Sushi Noz",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": null,
@@ -1462,7 +1462,7 @@
     },
     {
       "name": "Sushi Inoue",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 10027,
@@ -1475,7 +1475,7 @@
     },
     {
       "name": "Meadowsweet",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11212,
@@ -1488,7 +1488,7 @@
     },
     {
       "name": "Casa Enríque",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11101,
@@ -1501,7 +1501,7 @@
     },
     {
       "name": "Peter Luger",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11211,
@@ -1514,7 +1514,7 @@
     },
     {
       "name": "Oxomoco",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11222,
@@ -1527,7 +1527,7 @@
     },
     {
       "name": "The Finch",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11238,
@@ -1540,7 +1540,7 @@
     },
     {
       "name": "Faro",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "New York City",
       "state": "NY",
       "zipCode": 11237,
@@ -1555,7 +1555,7 @@
   "San Francisco": [
     {
       "name": "Chez TJ",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94041,
@@ -1568,7 +1568,7 @@
     },
     {
       "name": "Protégé",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94301,
@@ -1581,7 +1581,7 @@
     },
     {
       "name": "Madera",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94025,
@@ -1594,7 +1594,7 @@
     },
     {
       "name": "The Village Pub",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94062,
@@ -1607,7 +1607,7 @@
     },
     {
       "name": "Plumed Horse",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 95070,
@@ -1620,7 +1620,7 @@
     },
     {
       "name": "Wakuriya",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94402,
@@ -1633,7 +1633,7 @@
     },
     {
       "name": "Sushi Yoshizumi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94401,
@@ -1646,7 +1646,7 @@
     },
     {
       "name": "Rasa",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94010,
@@ -1659,7 +1659,7 @@
     },
     {
       "name": "Maum",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -1672,7 +1672,7 @@
     },
     {
       "name": "Al's Place",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94110,
@@ -1685,7 +1685,7 @@
     },
     {
       "name": "Aster",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94110,
@@ -1698,7 +1698,7 @@
     },
     {
       "name": "Omakase",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94103,
@@ -1711,7 +1711,7 @@
     },
     {
       "name": "Commonwealth",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94110,
@@ -1724,7 +1724,7 @@
     },
     {
       "name": "Luce",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94103,
@@ -1737,7 +1737,7 @@
     },
     {
       "name": "Birdsong",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -1750,7 +1750,7 @@
     },
     {
       "name": "In Situ",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94103,
@@ -1763,7 +1763,7 @@
     },
     {
       "name": "Mourad",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94105,
@@ -1776,7 +1776,7 @@
     },
     {
       "name": "Hashiri",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94103,
@@ -1789,7 +1789,7 @@
     },
     {
       "name": "Angler",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -1802,7 +1802,7 @@
     },
     {
       "name": "Rich Table",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94102,
@@ -1815,7 +1815,7 @@
     },
     {
       "name": "Kin Khao",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94102,
@@ -1828,7 +1828,7 @@
     },
     {
       "name": "Michael Mina",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94102,
@@ -1841,7 +1841,7 @@
     },
     {
       "name": "Sons & Daughters",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94108,
@@ -1854,7 +1854,7 @@
     },
     {
       "name": "Mister Jiu's",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94108,
@@ -1867,7 +1867,7 @@
     },
     {
       "name": "Nico",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -1880,7 +1880,7 @@
     },
     {
       "name": "jū-ni",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94117,
@@ -1893,7 +1893,7 @@
     },
     {
       "name": "Keiko à Nob Hill",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -1906,7 +1906,7 @@
     },
     {
       "name": "The Progress",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94115,
@@ -1919,7 +1919,7 @@
     },
     {
       "name": "State Bird Provisions",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94115,
@@ -1932,7 +1932,7 @@
     },
     {
       "name": "Octavia",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -1945,7 +1945,7 @@
     },
     {
       "name": "SPQR",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94115,
@@ -1958,7 +1958,7 @@
     },
     {
       "name": "Lord Stanley",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -1971,7 +1971,7 @@
     },
     {
       "name": "Kinjo",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -1984,7 +1984,7 @@
     },
     {
       "name": "Sorrel",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -1997,7 +1997,7 @@
     },
     {
       "name": "Gary Danko",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -2010,7 +2010,7 @@
     },
     {
       "name": "Bar Crenn",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94101,
@@ -2023,7 +2023,7 @@
     },
     {
       "name": "Spruce",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94118,
@@ -2036,7 +2036,7 @@
     },
     {
       "name": "Wako",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94118,
@@ -2049,7 +2049,7 @@
     },
     {
       "name": "Madcap",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94960,
@@ -2062,7 +2062,7 @@
     },
     {
       "name": "Aubergine",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 93921,
@@ -2075,7 +2075,7 @@
     },
     {
       "name": "Kenzo",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94559,
@@ -2088,7 +2088,7 @@
     },
     {
       "name": "La Toque",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94573,
@@ -2101,7 +2101,7 @@
     },
     {
       "name": "Bouchon",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94599,
@@ -2114,7 +2114,7 @@
     },
     {
       "name": "Auberge du Soleil",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94573,
@@ -2127,7 +2127,7 @@
     },
     {
       "name": "Farmhouse Inn & Restaurant",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 95436,
@@ -2140,7 +2140,7 @@
     },
     {
       "name": "Madrona Manor",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 95448,
@@ -2153,7 +2153,7 @@
     },
     {
       "name": "Harbor House",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": null,
@@ -2166,7 +2166,7 @@
     },
     {
       "name": "Baumé",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94306,
@@ -2179,7 +2179,7 @@
     },
     {
       "name": "Commis",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94601,
@@ -2192,7 +2192,7 @@
     },
     {
       "name": "Californios",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94110,
@@ -2205,7 +2205,7 @@
     },
     {
       "name": "Lazy Bear",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94110,
@@ -2218,7 +2218,7 @@
     },
     {
       "name": "Saison",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94107,
@@ -2231,7 +2231,7 @@
     },
     {
       "name": "Campton Place",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94108,
@@ -2244,7 +2244,7 @@
     },
     {
       "name": "Coi",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94133,
@@ -2257,7 +2257,7 @@
     },
     {
       "name": "Acquerello",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94109,
@@ -2270,7 +2270,7 @@
     },
     {
       "name": "Manresa",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 95030,
@@ -2283,7 +2283,7 @@
     },
     {
       "name": "Benu",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94105,
@@ -2296,7 +2296,7 @@
     },
     {
       "name": "Quince",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94133,
@@ -2309,7 +2309,7 @@
     },
     {
       "name": "Atelier Crenn",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94123,
@@ -2322,7 +2322,7 @@
     },
     {
       "name": "The French Laundry",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94599,
@@ -2335,7 +2335,7 @@
     },
     {
       "name": "The Restaurant at Meadowood",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 94574,
@@ -2348,7 +2348,7 @@
     },
     {
       "name": "SingleThread",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "San Francisco",
       "state": "CA",
       "zipCode": 95448,
@@ -2363,7 +2363,7 @@
   "Washington": [
     {
       "name": "Blue Duck Tavern",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20037,
@@ -2376,7 +2376,7 @@
     },
     {
       "name": "Tail Up Goat",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20009,
@@ -2389,7 +2389,7 @@
     },
     {
       "name": "Komi",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20036,
@@ -2402,7 +2402,7 @@
     },
     {
       "name": "Sushi Taro",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20036,
@@ -2415,7 +2415,7 @@
     },
     {
       "name": "Plume",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20036,
@@ -2428,7 +2428,7 @@
     },
     {
       "name": "Siren by RW",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20005,
@@ -2441,7 +2441,7 @@
     },
     {
       "name": "Bresca",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20000,
@@ -2454,7 +2454,7 @@
     },
     {
       "name": "The Dabney",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20001,
@@ -2467,7 +2467,7 @@
     },
     {
       "name": "Métier",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20001,
@@ -2480,7 +2480,7 @@
     },
     {
       "name": "Kinship",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20001,
@@ -2493,7 +2493,7 @@
     },
     {
       "name": "Fiola",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20004,
@@ -2506,7 +2506,7 @@
     },
     {
       "name": "Masseria",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20002,
@@ -2519,7 +2519,7 @@
     },
     {
       "name": "Rose's Luxury",
-      "michelinStars": 1,
+      "michelinStars": "★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20003,
@@ -2532,7 +2532,7 @@
     },
     {
       "name": "minibar",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20004,
@@ -2545,7 +2545,7 @@
     },
     {
       "name": "Pineapple and Pearls",
-      "michelinStars": 2,
+      "michelinStars": "★★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 20003,
@@ -2558,7 +2558,7 @@
     },
     {
       "name": "The Inn at Little Washington",
-      "michelinStars": 3,
+      "michelinStars": "★★★",
       "city": "Washington",
       "state": "DC",
       "zipCode": 22747,
